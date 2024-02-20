@@ -11,8 +11,8 @@
 ### GitHub Stats ⚡
 <div>
 <a href="https://github.com/dxnielemotta">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dxnielemotta&layout=compact&langs_count=7&theme=moltack"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dxnielemotta&show_icons=true&theme=moltack&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dxnielemotta&layout=compact&langs_count=7&theme=date_night"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dxnielemotta&show_icons=true&theme=date_night&include_all_commits=true&count_private=true"/>
 </div>
 
 ### Tecnologias e Ferramentas  🔧
