@@ -3,8 +3,8 @@
 ### Sobre mim
 
 - 🎓 Estudo [Desenvolvimento de Software Fullstack](https://cubos.academy/cursos/desenvolvimento-de-software) @[Cubos Academy](https://cubos.academy/)
-- 🌱 Atualmente estou aprendendo JavaScript
-- 🔎 Gosto de aprender novos idiomas
+- 🌱 Atualmente estou aprendendo JavaScript e Node.js
+- 🔎 Tenho interesse em aprender e conhecer novos idiomas.
 - 🎮 No meu tempo livre gosto de ver séries, tocar violão e jogar.
 - 😄 Pronome: ela/dela
 
