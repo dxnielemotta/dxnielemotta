@@ -2,7 +2,7 @@
 
 ### Sobre mim
 
-- 🎓 Estudo [Desenvolvimento de Software Fullstack](https://cubos.academy/cursos/desenvolvimento-de-software-v2) @[Cubos Academy](https://cubos.academy/)
+- 🎓 Estudo [Desenvolvimento de Software Fullstack](https://cubos.academy/cursos/desenvolvimento-de-software) @[Cubos Academy](https://cubos.academy/)
 - 🌱 Atualmente estou aprendendo JavaScript
 - 🔎 Gosto de aprender novos idiomas
 - 🎮 No meu tempo livre gosto de ver séries, tocar violão e jogar.
