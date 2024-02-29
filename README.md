@@ -1,8 +1,8 @@
-# Olá, Me chamo Daniele! 👋
+# Olá! Me chamo Daniele 👋
 
 ### Sobre mim
 
-- 🎓 Estudo [Desenvolvimento de Software Fullstack](https://cubos.academy/cursos/desenvolvimento-de-software) @[Cubos Academy](https://cubos.academy/)
+- 🎓 Estudo [Desenvolvimento de Software Fullstack](https://cubos.academy/cursos/desenvolvimento-de-software) na @[Cubos Academy](https://cubos.academy/)
 - 🌱 Atualmente estou aprendendo JavaScript e Node.js
 - 🔎 Tenho interesse em aprender e conhecer novos idiomas.
 - 🎮 No meu tempo livre gosto de ver séries, tocar violão e jogar.
@@ -18,6 +18,10 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+### Quero aprender 📚
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ### GitHub Stats ⚡
 <div>
@@ -31,5 +35,8 @@
 ### Entre em contato comigo! 📭
 <div>
 <a href="https://www.linkedin.com/in/daniele-mottaro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href = "mailto:danielemottarocha@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
 </div>
+
+
 
