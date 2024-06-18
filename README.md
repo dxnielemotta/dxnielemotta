@@ -2,7 +2,7 @@
 
 ### Sobre mim
 
-- 🎓 Estudo [Desenvolvimento de Software Fullstack](https://cubos.academy/cursos/desenvolvimento-de-software)
+- 🎓 Estudo [Desenvolvimento de Software Fullstack]
 - 🌱 Atualmente estou aprendendo JavaScript e Node.js
 - 🔎 Tenho interesse em aprender e conhecer novos idiomas.
 - 😄 Pronome: ela/dela
